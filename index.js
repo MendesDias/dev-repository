@@ -1,5 +1,5 @@
 module.export = function(string){
 
-    return `${string} - Automação`
+    return `${string} - Automação TESTE`
 
 }
